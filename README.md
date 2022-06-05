@@ -1,3 +1,3 @@
-# 1st-calculator
-primeira calculadora em c#
 # calculadora-poggers
+
+by Chicão i eu
